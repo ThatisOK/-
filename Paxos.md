@@ -13,3 +13,7 @@
 - [理解 Paxos Made Simple](https://qtozeng.top/2018/12/20/%E7%90%86%E8%A7%A3-Paxos-Made-Simple/)
 - [Paxos made simple 论文导读](https://cloud.tencent.com/developer/article/1882934)
 - [分布式系统论文笔记目录](https://zhuanlan.zhihu.com/p/34427903)
+
+- [Paxos算法细节详解(一)--通过现实世界描述算法](https://www.cnblogs.com/endsock/p/3480093.html)
+- [Paxos算法1-算法形成理论](https://blog.csdn.net/chen77716/article/details/6166675)
+- [Paxos算法2-算法过程](https://blog.csdn.net/chen77716/article/details/6170235)
